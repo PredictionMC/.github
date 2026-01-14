@@ -25,3 +25,4 @@ We're a **Minecraft Bedrock Edition Anticheat** aiming to keep gameplay fair. We
 ## Quick Links
 - [Terms of Service](#)
 - [Privacy Policy](#)
+- [Discord](https://discord.gg/dwRqVBTb25)
