@@ -10,6 +10,18 @@ We're a **Minecraft Bedrock Edition Anticheat** aiming to keep gameplay fair. We
 - Extra customisable features
 - And More!
 
+# Support Server Softwares
+
+- PocketMine-MP
+
+# Server softwares in works to be supported
+
+- PowerNukkitX
+
+# Planned server softwares
+- DragonFly (Through an MITM Proxy, PMMP support additionally)
+
+
 ## Quick Links
 - [Terms of Service](#)
 - [Privacy Policy](#)
