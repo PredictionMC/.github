@@ -5,22 +5,18 @@ We're a **Minecraft Bedrock Edition Anticheat** aiming to keep gameplay fair. We
 
 # What we offer
 
-- Active updates
-- Great support
-- Extra customisable features
-- And More!
+- Crazy Checks [!]
+- Operating under a custom MITM Proxy made in C++, promising performance
+- Supporting every major serversoftware
 
-# Support Server Softwares
+# Supported Server Softwares
 
-- PocketMine-MP
-
-# Server softwares in works to be supported
-
-- PowerNukkitX
-
-# Planned server softwares
-- DragonFly (Through an MITM Proxy, PMMP support additionally)
-
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP/tree/stable/src)
+  - [NG-PocketMine-MP Included](https://github.com/nethergamesmc/pocketmine-mp)
+- [PowerNukkitX](https://github.com/PowerNukkitX/PowerNukkitX)
+- [AllayMC](https://github.com/AllayMC/Allay)
+- [DragonFly](https://github.com/df-mc/dragonfly)
+- [BetterAltay](https://github.com/Benedikt05/BetterAltay)
 
 ## Quick Links
 - [Terms of Service](#)
